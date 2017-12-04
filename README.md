@@ -1,2 +1,2 @@
 # clozapine_adr_stats
-statistical model analysis for clozapine adverse reaction prediction
+a cost-effective model for predicting clozapine adverse drug reaction
